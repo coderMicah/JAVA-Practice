@@ -37,6 +37,6 @@ public class Car {
 
         System.out.println(tesla.modelName);
 
-        Car.getModelName(tesla);
+        System.out.println(Car.getModelName(tesla));
     }
 }
